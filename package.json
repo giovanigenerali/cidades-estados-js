@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/wgenial/cidades-estados-js.git",
+  "repository": {
+    "url": "https://github.com/wgenial/cidades-estados-js",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/wgenial/cidades-estados-js/issues"
+  },
+  "homepage": "https://github.com/wgenial/cidades-estados-js#readme",
   "keywords": [
     "cidade",
     "estado",
@@ -15,9 +22,5 @@
     "javascript"
   ],
   "author": "WGenial",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wgenial/cidades-estados-js/issues"
-  },
-  "homepage": "https://github.com/wgenial/cidades-estados-js#readme"
+  "license": "MIT"
 }
